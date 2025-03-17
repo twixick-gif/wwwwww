@@ -4,7 +4,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Русик С Днем Рождения!!!!!!!!!🍻🍻🎊🎊🎉🎉🎉🎉✨✨✨</title>
+<title>Русик </title>
+
+<body>Русик С Днем Рождения!!!!!!!!!🍻🍻🎊🎊🎉🎉🎉🎉✨✨✨</body>
 
 <img src="https://sun9-77.userapi.com/impg/Z06yX_MAwXxCW9qcjMW0DvwSc0of5mpMgrtAQA/Z6ZuTLfrKBc.jpg?size=992x992&quality=95&sign=8c37c83589a0d311879eb91444f37bdd&type=album" title="Значок сайта" alt="logo site">
 
